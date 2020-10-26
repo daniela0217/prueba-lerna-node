@@ -1,6 +1,6 @@
 {
   "name": "prueba-lerna-node",
-  "private": true,
+  "private": false,
   "devDependencies": {
     "lerna": "^3.22.1"
   },
